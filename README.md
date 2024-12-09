@@ -50,3 +50,13 @@ Este projeto pode ser usado em aplicações como monitoramento de aceleração, 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+
+## 📚 Referências**
+* Arduino IDE Documentação
+* ESP32 com Arduino IDE
+* Datasheet do MMA7361
+
+✨ Autor
+* Luis Cláudio
+* E-mail: contato.satnova@gmail.com
+* LinkedIn: www.linkedin.com/in/lcdvita
